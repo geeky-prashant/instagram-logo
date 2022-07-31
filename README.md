@@ -9,7 +9,7 @@
 
   <h2 align="center">Instagram Logo</h2>
 
-  In this project, I have created Instagram's logo design with the help of CSS, <br />The project is built using HTML5 & CSS3.
+  In this project, I have created Instagram's logo design with the help of CSS, The project is built using HTML5 & CSS3.
 
   <a href="https://geeky-prashant.github.io/instagram-logo/"><strong>➥ Live Demo</strong></a>
 
